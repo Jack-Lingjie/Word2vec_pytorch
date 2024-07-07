@@ -5,8 +5,9 @@
 
 ## Getting Started
 1. Clone the Repo
+`git clone https://github.com/Jack-Lingjie/Word2vec_pytorch.git`
 2. Install the requirements.txt
-
+`pip install -r requirements.txt`
 
 ## Acknowledgments
 The implementation of this repo references the following repos and blogs:
