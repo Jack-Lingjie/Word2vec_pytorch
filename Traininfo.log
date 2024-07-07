@@ -1,0 +1,61 @@
+2024-07-06 23:59:18,453 - utils - INFO - Start Train
+2024-07-07 00:01:59,691 - utils - INFO - Start Train
+2024-07-07 00:11:52,104 - utils - INFO - Start Train
+2024-07-07 10:39:44,324 - utils - INFO - Start Train
+2024-07-07 10:42:46,720 - utils - INFO - Start Train
+2024-07-07 10:45:06,956 - utils - INFO - Start Train
+2024-07-07 10:49:15,813 - utils - INFO - load reuters
+2024-07-07 10:50:42,534 - utils - INFO - preprocessing dataset
+2024-07-07 10:50:42,876 - utils - INFO - get unigram distribution
+2024-07-07 10:50:55,468 - utils - INFO - Start Train
+2024-07-07 10:53:58,114 - utils - INFO - load reuters
+2024-07-07 10:55:24,747 - utils - INFO - preprocessing dataset
+2024-07-07 10:55:25,089 - utils - INFO - get unigram distribution
+2024-07-07 10:55:37,630 - utils - INFO - Start Train
+2024-07-07 11:10:55,333 - utils - INFO - load reuters
+2024-07-07 11:12:22,040 - utils - INFO - preprocessing dataset
+2024-07-07 11:12:22,387 - utils - INFO - get unigram distribution
+2024-07-07 11:12:34,808 - utils - INFO - Start Train
+2024-07-07 11:27:07,030 - utils - INFO - load reuters
+2024-07-07 11:28:33,722 - utils - INFO - preprocessing dataset
+2024-07-07 11:28:34,072 - utils - INFO - get unigram distribution
+2024-07-07 11:28:46,929 - utils - INFO - Start Train
+2024-07-07 11:32:37,894 - utils - INFO - load reuters
+2024-07-07 11:34:04,579 - utils - INFO - preprocessing dataset
+2024-07-07 11:34:04,923 - utils - INFO - get unigram distribution
+2024-07-07 11:34:17,731 - utils - INFO - Start Train
+2024-07-07 11:35:37,940 - utils - INFO - loss:16003.67
+2024-07-07 15:03:53,437 - utils - INFO - load reuters
+2024-07-07 15:05:19,216 - utils - INFO - preprocessing dataset
+2024-07-07 15:05:19,561 - utils - INFO - get unigram distribution
+2024-07-07 15:05:32,172 - utils - INFO - Start Train
+2024-07-07 15:06:51,915 - utils - INFO - loss:16014.98
+2024-07-07 15:48:40,650 - myloger - INFO - load reuters
+2024-07-07 15:50:11,370 - myloger - INFO - preprocessing dataset
+2024-07-07 15:50:11,858 - myloger - INFO - get unigram distribution
+2024-07-07 15:50:23,443 - myloger - INFO - Start Train
+2024-07-07 15:51:41,746 - myloger - INFO - loss:16038.35
+2024-07-07 16:01:17,526 - myloger - INFO - load reuters
+2024-07-07 16:02:47,955 - myloger - INFO - preprocessing dataset
+2024-07-07 16:02:48,448 - myloger - INFO - get unigram distribution
+2024-07-07 16:02:59,989 - myloger - INFO - Start Train
+2024-07-07 16:04:18,432 - myloger - INFO - loss:15897.04
+2024-07-07 16:05:36,728 - myloger - INFO - loss:7602.35
+2024-07-07 16:06:54,815 - myloger - INFO - loss:5426.95
+2024-07-07 16:08:13,175 - myloger - INFO - loss:4515.55
+2024-07-07 16:09:31,431 - myloger - INFO - loss:4041.91
+2024-07-07 16:10:49,488 - myloger - INFO - loss:3756.91
+2024-07-07 16:12:07,605 - myloger - INFO - loss:3570.90
+2024-07-07 16:16:04,117 - myloger - INFO - loss:3438.89
+2024-07-07 16:17:22,418 - myloger - INFO - loss:3342.50
+2024-07-07 16:18:40,437 - myloger - INFO - loss:3267.50
+2024-07-07 16:19:58,734 - myloger - INFO - loss:3206.23
+2024-07-07 16:21:16,859 - myloger - INFO - loss:3157.02
+2024-07-07 16:22:34,923 - myloger - INFO - loss:3114.53
+2024-07-07 16:23:53,199 - myloger - INFO - loss:3079.24
+2024-07-07 16:25:11,497 - myloger - INFO - loss:3048.66
+2024-07-07 16:26:29,710 - myloger - INFO - loss:3021.85
+2024-07-07 16:27:47,851 - myloger - INFO - loss:2996.76
+2024-07-07 16:29:06,155 - myloger - INFO - loss:2975.31
+2024-07-07 16:30:24,228 - myloger - INFO - loss:2956.65
+2024-07-07 16:31:42,241 - myloger - INFO - loss:2939.22
